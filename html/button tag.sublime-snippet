@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<button${1: type="${2}"}${3: class="${4}"}${5: name="${6}"}${7: value="${8}"}>${9}</button>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>button</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
